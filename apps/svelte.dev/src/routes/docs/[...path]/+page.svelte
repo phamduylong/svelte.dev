@@ -68,7 +68,7 @@
 
 <div id="docs-content" use:legacy_details>
 	<header>
-		<Breadcrumbs breadcrumbs={data.document.breadcrumbs.slice(1)} />
+		<Breadcrumbs breadcrumbs={data.document.breadcrumbs.slice(1)} />:
 		<h1>{data.document.metadata.title}</h1>
 	</header>
 
